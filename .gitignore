@@ -1,0 +1,30 @@
+# Env
+.env
+.env.local
+.env.production
+
+# Foundry
+contracts/out/
+contracts/cache/
+contracts/lib/
+
+# Node
+node_modules/
+frontend/.next/
+frontend/out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+
+# Coverage
+lcov.info
+coverage/

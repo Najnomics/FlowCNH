@@ -1,0 +1,17 @@
+{
+  "name": "flow-cnh",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Real-time cross-border payment streaming powered by AxCNH on Conflux eSpace",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "harvester": "cd backend && npm run harvester",
+    "test": "cd contracts && forge test -vvv",
+    "test:fork": "cd contracts && forge test --fork-url https://evmtestnet.confluxrpc.com -vvv",
+    "deploy:testnet": "cd contracts && forge script script/Deploy.s.sol --rpc-url https://evmtestnet.confluxrpc.com --broadcast -vvv",
+    "install:all": "cd frontend && npm install && cd ../backend && npm install"
+  },
+  "author": "Nosakhare Jesuorobo <najnomics>",
+  "license": "MIT"
+}

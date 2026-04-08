@@ -23,10 +23,7 @@ FlowCNH is the first real-time payment streaming protocol on Conflux eSpace and 
 ## Team
 
 - **Nosakhare Jesuorobo** — Lead Smart Contract Developer (GitHub: [@najnomics](https://github.com/najnomics), Discord: najnomics)
-- Team Member 2 (GitHub: @username, Discord: username)
-- Team Member 3 (GitHub: @username, Discord: username)
-- Team Member 4 (GitHub: @username, Discord: username)
-- Team Member 5 (GitHub: @username, Discord: username)
+
 
 ---
 
